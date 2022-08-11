@@ -39,13 +39,13 @@ $ pip install mechanize
 $ pip install lolcat
 $ pip install BeautifulSoup
 $ pkg install git
-$ git clone https://github.com/James404-cyber/HACKPRO.git
-$ cd HACKPRO
+$ git clone https://github.com/DavidChinedu23/Fuck-Hack-Pro-v2
+$ cd Fuck-Hack-Pro-v2
 $ python Prohack.py
 
 Api Key :
 
-Note: This One Paid Tools, So You Take First Approval For Using This Tools
+Note: This One free Tools, So You Take First Approval For Using This Tools
  
 
 
